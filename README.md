@@ -1,2 +1,2 @@
 # Projects
-ML &amp; DL projects
+ML &amp; DL projects using Python and R
